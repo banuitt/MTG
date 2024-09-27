@@ -49,4 +49,4 @@ To get BanuittMTG up and running in your own server, follow these steps:
 - **Expanded Rulings**: Pull rulings for more obscure cards and interactions, expanding the bot's usefulness for both casual and tournament play.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
